@@ -15,9 +15,9 @@ export default {
           purple: '#8b5cf6',
           indigo: '#6366f1',
           pink: '#ec4899',
-          blue: '#3b82f6',
+          blue: '#fcf413ff',
           cyan: '#06b6d4',
-          accent: '#a855f7'
+          accent: '#9af135ff'
         }
       },
       fontFamily: {
